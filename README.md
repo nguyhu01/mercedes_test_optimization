@@ -39,6 +39,7 @@ Our goal is to sharpen our skills, tackle complex datasets, and turn insights in
 - [@vincent-buchner](https://github.com/vincent-buchner) - Modeling
 - [@SorenBasnet](https://github.com/SorenBasnet) - Dim. Reduction
 - [@Drewni01](https://github.com/Drewni01) - Visualization
+- [@dieple-ldnd](https://github.com/dieple-ldnd) - EDA
 
 
 <!-- ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
